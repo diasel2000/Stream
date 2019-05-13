@@ -1,4 +1,4 @@
-# Stream
+
 #Task 1:
 The method takes a list of names. Returns a string of the form "1. Ivan, 3. Peter ...", only with names on odd indices, respectively.
 
